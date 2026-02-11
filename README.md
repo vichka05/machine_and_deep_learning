@@ -5,7 +5,7 @@
     **Детали:** Написание архитектуры с нуля, использование аугментаций (Albumentations), применение предобученных моделей (ResNet50).
     **Библиотеки:** PyTorch, Albumentations, Torchvision.
   
-  ### Face Verification & Siamese Networks
+  ### Face Verification & Siamese Networks (networks_and_images)
     **Задача:** Бинарная классификация пар изображений, Triplet Loss.
     **Библиотеки:** PyTorch, Scikit-learn.
   
@@ -19,7 +19,7 @@
     **Задача:** Классификация и регрессия с помощью деревьев.
     **Детали:** Реализация с нуля алгоритма построения решающего дерева (функция find_best_split, критерии Джини и дисперсии).
   
-  ## Gradient Boosting
+  ## Gradient Boosting (boosting_and_clustering)
     **Задача:** Предсказание зарплаты Data Scientist'ов.
     **Детали:** Анализ факторов, влияющих на зарплату, применение градиентного бустинга для регрессии.
     **Библиотеки:** Scikit-learn, Pandas, Matplotlib.
